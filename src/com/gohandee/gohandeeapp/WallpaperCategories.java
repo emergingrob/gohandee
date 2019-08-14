@@ -19,7 +19,7 @@ public class WallpaperCategories extends ListActivity {
 	final String[] taxonomy = {"100","101","102","103","104","105","106","1107","107","108","110","111","1022","109","121","112","113","114","115","116","117","118","119","120"}; 	
 	
 	@Override
-    public void onCreate(Bundle savedInstanceState) {
+    	public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
 
